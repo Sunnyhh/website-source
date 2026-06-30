@@ -4,6 +4,10 @@ title = 'Projects'
 
 ## Research Projects
 ---
+#### National Implementation of Risk Models for Adult Congenital Heart Disease
+- *Supervisor: Dr Qi Huang (University College London)*
+- Joined this project as a summer researcher at Clinical Operational Research Unit (CORU) of UCL Department of Mathematics.
+
 ##### Sample Depth Measurement for Object Data: Graphs, Images, and Functions
 - *Supervisor: Dr Anna Calissano (Univeristy College London)*
 - Focus on exploring and applying statistical depth measures, such as Tukey’s Depth and Metric Halfspace Depth, to complex object data types, including graphs, images, and functional data.
