@@ -1,10 +1,10 @@
 +++
-title = 'Working Experience'
+title = 'Professional Experience'
 +++
 
 ### Phlo Systems Limited
 > *Junior Analyst and Developer Intern*｜*Part-Time Junior Analyst* \
-> *May -- July 2025*｜*Aug 2025 -- Present* **•** London, UK
+> *May -- July 2025*｜*Aug 2025 -- May 2026* **•** London, UK
 > - Developed a multi-agent AI system PoC for commodity trading, using an open-source stock-market framework as a reference and building the complete system from scratch using the CrewAI framework in Python.
 > - Adapted the system for lower-liquidity commodity-market dynamics by refining agent workflows and engineering multilayer prompts; built a Streamlit web app and documentation for client demonstration and system delivery.
 > - Extended to a part-time role after the internship for strong technical performance, effective teamwork, timely client communications, and resourceful problem-solving.

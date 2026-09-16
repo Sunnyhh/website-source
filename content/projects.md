@@ -1,5 +1,5 @@
 +++
-title = 'Projects'
+title = 'Research & Projects'
 +++
 
 ## Research Projects
@@ -8,7 +8,7 @@ title = 'Projects'
 - *Supervisor: Dr Qi Huang (University College London)*
 - Joined this project as a summer researcher at Clinical Operational Research Unit (CORU) of UCL Department of Mathematics.
 
-##### Sample Depth Measurement for Object Data: Graphs, Images, and Functions
+##### Statistical Depth-Based Visualization for Object-Oriented Data
 - *Supervisor: Dr Anna Calissano (Univeristy College London)*
 - Focus on exploring and applying statistical depth measures, such as Tukey’s Depth and Metric Halfspace Depth, to complex object data types, including graphs, images, and functional data.
 - Aim to understand the extension of depth concepts to non-Euclidean settings, evaluate their performance on simulated and real data, and build a visualization tool for the depths of object data.
@@ -25,11 +25,6 @@ title = 'Projects'
 > [Predicting the Stock Opening Price of Apple Company](https://doi.org/10.54254/2753-8818/39/20240583)  
 > *Theoretical and Natural Science, 39, 14-22.*
 - Conducted time series analysis and used the ARIMA model to forecast Apple’s stock opening price.
-
-##### Establishing an Equitable Global Access to COVID-19 Vaccines
-> [Establishing an Equitable Global Access to COVID-19 Vaccines](https://doi.org/10.54097/hbem.v1i.3012)  
-> *Highlights in Business, Economics and Management, 1, 373-380.*
-- Analyzed the global allocation of the COVID-19 vaccines.
 
 ## School Projects
 ---
@@ -62,3 +57,5 @@ title = 'Projects'
 > [Centralized vs Individual Queues: Efficiency, Fairness, and Behavioral Trade-offs in Real World Settings]()
 - Built and validated a discrete-event simulation study in R comparing one centralized queue feeding multiple servers vs multiple individual queues under matched arrival/service assumptions, quantifying impacts on mean waiting time and waiting-time variability.
 - Established a baseline comparison between the two queuing systems, proved the classical pooling effect by simulations, and systematically tested how the pooling advantage changes across real-world settings by varying key assumptions (e.g., arrival intensity, service-time variability, and customer behaviors, etc)
+
+#### Computational Statistics
